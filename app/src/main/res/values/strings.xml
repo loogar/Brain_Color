@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Brain color</string>
+
+
+    <string name="btnClassic">Simple yet  Hard</string>
+    <string name="btnTime">Beat the clock</string>
+    <string name="btnAbout">Time to Learn</string>
+
+
+    <string name="your_score">Your Score</string>
+
+    <string name="aboutHeading"> Learn daily......</string>
+    <string name="aboutText">Welcome to our learning section here you will be experiencing a new learning method which will let you know more and more things you think are unwanted or unimportant this section will be updated every week so do not miss up on information because as they say "Information is wealth"</string>
+
+
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appColor">#00B768</color>
+    <color name="red">#D10000</color>
+    <color name="green">#00B768</color>
+    <color name="yellow">#FFC200</color>
+    <color name="orange">#FF7700</color>
+    <color name="gray">#EAEAD0</color>
+    <color name="black">#0E0412</color>
+
+    <color name="btnClassic">#0FC990</color>
+    <color name="btnTime">#A2E130</color>
+    <color name="btnAbout">#AD7756</color>
+    <color name="btnAnswers">#EAEAD0</color>
+
+    <color name="white">#fff</color>
+
+
+</resources>

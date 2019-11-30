@@ -1,0 +1,57 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAF9">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgBack"
+        android:src="@drawable/icon_back"
+        android:layout_marginTop="25sp"
+        android:adjustViewBounds="true"
+        android:layout_marginLeft="25sp" />
+
+
+
+
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/aboutHeading"
+        android:id="@+id/txtName"
+        android:layout_marginTop="25sp"
+        android:gravity="center_vertical"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="30sp" />
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtube_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtName"
+        android:layout_marginTop="150sp"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/youtube_view"
+        android:id="@+id/txtRule"
+        android:layout_marginTop="25sp"
+        android:gravity="center_vertical"
+        android:layout_centerHorizontal="true"
+        android:text="@string/aboutText"
+        />
+
+
+
+
+
+
+</RelativeLayout>
