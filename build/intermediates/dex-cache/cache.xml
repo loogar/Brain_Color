@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-3ce7770e5ebb36bde81d735ea1f88a840958b62b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1-18fba175d744b9d08cf332e719d49a3121d5a0a5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-111fb0157f497b1f5923c6702e66ddbb2aacb8b8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-4f96a3469c8668c0a8fe8b8ae7e20ad929305ca3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-31f526f4bdfaa4e6a54bc4bbb16616914b14d6e4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-56dec3fdcad12a86e7adc8fd4b19d2e8dbc3c81d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-2c4968ccae663147c325d751acf00e4a6e46bf53.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-9f003718e6cb29b539ac5c7938e96aa1d0dc8184.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-74b0827808b672e69388a988ee02d4c9b55646cc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-ebc47584174e91589a27646499b2968103990ea8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-844380bc30ff90421f48184ac4035a797e324212.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-332e066c06c60cb87fcda814712f1b3d64b8be11.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1-17441fbff5f357d432b4b4b37edc4b14842b8486.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-7b2284fd7c460e1e9b525f6a7f436844ad6bdd03.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\AndroidStudioProjects\MCQQuiz\app\build\intermediates\pre-dexed\debug\classes-cd86560f36eb7348a600d00739b37976920fb622.jar" />
+    </item>
+
+</items>
